@@ -1,0 +1,10 @@
+{
+    "name": "comp/nexus.cms",
+    "require": {
+        "phpfastcache/phpfastcache": "^7.0",
+        "twig/twig": "^2.0",
+        "phpmailer/phpmailer": "^6.0",
+        "respect/validation": "^1.1",
+        "fzaninotto/faker": "^1.8"
+    }
+}
