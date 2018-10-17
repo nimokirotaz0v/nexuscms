@@ -1,4 +1,4 @@
 <?php
-
-require __DIR__ . '../../vendor/autoload.php';
+define('ROOT' , $_SERVER['DOCUMENT_ROOT']);
+require ROOT.'/vendor/autoload.php';
 
